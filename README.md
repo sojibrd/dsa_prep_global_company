@@ -1,21 +1,21 @@
-# global_company_dsa_prep
+# dsa_prep_global_company
 
 FAANG-স্তরের DSA রাউন্ডের প্রস্তুতি, মোট ১৩৩ দিন। প্রথম ব্লকে রিমোটের ৫০টা প্রবলেম interview-এর পুরো ক্রমে, ঘড়ি ধরে। তারপর নতুন ৬০টা, বেশিরভাগ hard আর 🔥 Must-do, সব ১০ টপিক জুড়ে। শেষ দুই সপ্তাহ শুধু mock। সব ইংরেজিতে, শেখার বিজ্ঞান মেনে। ১১০টা শেষ হলে থামা।
 
-এটা তিন পথের তৃতীয়টা: [লোকাল](https://sojibrd.github.io/local_company_dsa_prep/) → [রিমোট](https://sojibrd.github.io/remote_company_dsa_prep/) → গ্লোবাল। এই পথ রোডম্যাপের কোনো stage-এ নেই, এটা লক্ষ্য নয়, দিক। শুরুর তারিখ ⏳।
+এটা তিন পথের তৃতীয়টা: [লোকাল](https://sojibrd.github.io/dsa_prep_local_company/) → [রিমোট](https://sojibrd.github.io/dsa_prep_remote_company/) → গ্লোবাল। এই পথ রোডম্যাপের কোনো stage-এ নেই, এটা লক্ষ্য নয়, দিক। শুরুর তারিখ ⏳।
 
-**লাইভ:** https://sojibrd.github.io/global_company_dsa_prep/
+**লাইভ:** https://sojibrd.github.io/dsa_prep_global_company/
 
 ## Functional Requirement
 
-- **আজ · Rail · দিন · ব্লক · ঝালাই · নিয়ম:** `local_company_dsa_prep`-এর মতোই।
+- **আজ · Rail · দিন · ব্লক · ঝালাই · নিয়ম:** `dsa_prep_local_company`-এর মতোই।
 - **প্যাটার্ন:** ৫১টা, ইংরেজিতে। 🔥 Must-do chip দেখায়, কারণ এই পথেই ঐ ছাঁচ ঠিক কাজ করে। plan-এ থাকা demo-প্রবলেমের নোট আর দিনের লিংকও দেখায়।
 - **টপিক ৬ (Heaps) নতুন লেখা।** `dsa_prep`-এ এটা শুধু একটা ফাঁকা লিংক ছিল। ৪টা প্যাটার্ন: Top K, K-way Merge, Two Heaps, Heap + Greedy। 6.1-এর demo-তে JS-এর `MinHeap` class আছে, 6.x আর 8.6 সেটাই ব্যবহার করে।
 
 ## Non-Functional Requirement
 
-- **কোড `local_company_dsa_prep`-এর হুবহু।** পার্থক্য শুধু `app/lib/site.ts` (prefix `gdsa`, Must-do চালু), basePath আর কনটেন্টে।
-- **`patterns/` ইংরেজি প্যাটার্ন ফাইলের মূল কপি।** `remote_company_dsa_prep/patterns/` এখান থেকে নেওয়া অংশ। বদল হলে আগে এখানে, তারপর রিমোটে কপি।
+- **কোড `dsa_prep_local_company`-এর হুবহু।** পার্থক্য শুধু `app/lib/site.ts` (prefix `gdsa`, Must-do চালু), basePath আর কনটেন্টে।
+- **`patterns/` ইংরেজি প্যাটার্ন ফাইলের মূল কপি।** `dsa_prep_remote_company/patterns/` এখান থেকে নেওয়া অংশ। বদল হলে আগে এখানে, তারপর রিমোটে কপি।
 - সত্যের উৎস `docs/` আর `patterns/`। `(LC n)` যদি `patterns/`-এ না মেলে, build ভাঙে। ফাইলে তারিখ নেই।
 - Static export → GitHub Pages। Progress শুধু `localStorage`-এ, একমাত্র `useProgress.ts` দিয়ে। Theme contract মানা হয়, সাইট dark-only।
 

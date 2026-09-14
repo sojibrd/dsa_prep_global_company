@@ -12,7 +12,7 @@ FAANG-এ DSA ছাঁকনি নয়, **নির্ণায়ক।** �
 
 1. `legacy_and_wisdom/docs/ASSUMPTIONS.md`
 2. `brainstorming/` — `dsa-prep-how-many-paths.md`, `dsa-prep-what-works-for-faang.md`, `after-joining/11-next-jump.md`
-3. `remote_company_dsa_prep/` — এই পথের ব্লক ১-এর ৫০টা ওখানকার হুবহু
+3. `dsa_prep_remote_company/` — এই পথের ব্লক ১-এর ৫০টা ওখানকার হুবহু
 4. এই ফোল্ডার — `docs/` আর `patterns/` (৫১টা প্যাটার্ন, ইংরেজিতে; টপিক ৬ নতুন লেখা, `dsa_prep`-এ ওটা ফাঁকা লিংক ছিল)
 
 **কখন:** এই পথ রোডম্যাপের কোনো stage-এ **নেই** — "লক্ষ্য নয়, দিক"। চাকরি থাকা অবস্থায় সুযোগ এলে তখন। শুরুর তারিখ ⏳ আপনার উত্তর বাকি। **রিমোটের ৫০টা শেষ না করে এই পথ নয়।**
