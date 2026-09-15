@@ -18,7 +18,7 @@ export const SITE: {
   short: "গ্লোবাল DSA",
   emoji: "🌍",
   description:
-    "FAANG-স্তরের DSA রাউন্ডের জন্য ১১০টা প্রবলেম — রিমোটের ৫০টা ঘড়ি ধরে, সব ১০ টপিক, hard আর mock, learning to learn-এর নীতিতে।",
+    "FAANG-স্তরের DSA রাউন্ডের জন্য ১১০টা প্রবলেম — শূন্য থেকে সব ১০ টপিক, interview-এর পাঁচ ধাপে, hard আর mock, learning to learn-এর নীতিতে।",
   /** localStorage key-এর prefix — তিন পথের progress আলাদা থাকে */
   storagePrefix: "gdsa",
   /** এই পথ কোনো stage-এ নেই — প্রস্তাব নেই, আজকের তারিখ দেখায় */
