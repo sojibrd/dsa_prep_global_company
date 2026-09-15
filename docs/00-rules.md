@@ -10,7 +10,7 @@ FAANG-এ DSA ছাঁকনি নয়, **নির্ণায়ক।** �
 
 ## সত্যের উৎস
 
-1. `legacy_and_wisdom/docs/ASSUMPTIONS.md`
+1. `brainstorming/ASSUMPTIONS.md`
 2. `brainstorming/` — `dsa-prep-how-many-paths.md`, `dsa-prep-what-works-for-faang.md`, `after-joining/11-next-jump.md`
 3. এই ফোল্ডার — `docs/` আর `patterns/` (৫১টা প্যাটার্ন, ইংরেজিতে; টপিক ৬ নতুন লেখা, `dsa_prep`-এ ওটা ফাঁকা লিংক ছিল)
 
