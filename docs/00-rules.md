@@ -11,7 +11,7 @@ FAANG-এ DSA ছাঁকনি নয়, **নির্ণায়ক।** �
 ## সত্যের উৎস
 
 1. `brainstorming/ASSUMPTIONS.md`
-2. `brainstorming/` — `dsa-prep-how-many-paths.md`, `dsa-prep-what-works-for-faang.md`, `after-joining/11-next-jump.md`
+2. `brainstorming/` — `dsa.md` (তিন পথ · FAANG-এ কী ভালো), `after-joining.md` (ধাপ ১১)
 3. এই ফোল্ডার — `docs/` আর `patterns/` (৫১টা প্যাটার্ন, ইংরেজিতে; টপিক ৬ নতুন লেখা, `dsa_prep`-এ ওটা ফাঁকা লিংক ছিল)
 
 **স্বাধীন পথ।** আগে অন্য কোনো DSA সাইট শেষ করতে হয় না — এই সাইট টপিক ১–৫-এর প্রথম প্রবলেম থেকে শেখায়। প্রথম ৫০টা `dsa_prep_remote_company`-এর একই ৫০টা (তার প্রথম ৩০টা `dsa_prep_local_company`-এর); ওগুলো করা থাকলে চেনা লাগবে, কিন্তু interview-এর পাঁচ ধাপ তবু নতুন — বাদ দেবেন না।
